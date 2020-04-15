@@ -1,0 +1,172 @@
+
+.container{
+    width: 80%;
+    margin: 0px auto;
+}
+ul li{
+    display: inline;
+    text-decoration-style:none ;
+}
+ul img{
+    width: 15px;
+}
+.nav ul{
+    margin-left: 120px;
+    word-spacing: 30px;
+}
+.header{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: fit-content;
+    height: fit-content;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav{
+    width: fit-content;
+    height: fit-content;
+    font-size: 15px;
+    display: flex;
+    align-items: center; 
+}
+button{
+    padding: 7px 13px;
+    border: none;
+}
+.nol{
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 20px;
+}
+.login{
+    color: gray;
+    border: 0.5px solid gray;
+    background-color: #ffffff;
+    border-radius: 25px; 
+}
+.signup{
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 25px;
+}
+.middle{
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 30px;
+    background-color: hsla(0, 80%, 81%, 0.438);
+}
+.sozder{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 80px;
+}
+.sozder h1{
+    font-size: 35px;
+}
+.sozder p{
+    font-weight: 550;
+}
+.strelka{
+    display: flex;
+    align-items: center;
+}
+.strelka img{
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+}
+.kartinka img{
+    width: 700px;
+    height: 400px;
+}
+.middle2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.recipe{
+    width: 20%;
+}
+.bir{
+    display: flex;
+    align-items: center;
+}
+.bir img{
+    width:40px;
+    height: 40px;
+    margin-left: 15px;
+}
+.eki{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.eki p{
+    color: #d8345f;
+}
+.uw{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.uw p{
+    margin: 0;
+}
+.tort{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bes h4{
+    margin: 0;
+}
+.birdei{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.onjbir{
+    display: flex;
+    justify-content: space-between;
+}
+.onjbir input{
+    outline: none;
+    border-style: none;
+}
+.onjbir button{
+    color: #ffffff;
+    background-color: #000000;
+    border: none;
+}
+.songy img{
+    width: 100%;
+    border-radius: 15px;
+}
+.songy{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.third{
+    display: flex;
+    justify-content: space-between;
+}
+.onjaq{
+    margin-top: 30px;
+    width: 70%;
+}
+.songy{
+    margin-top: 30px;
+}
+.songybir{
+    width: 30%;
+}
